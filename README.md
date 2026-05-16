@@ -113,7 +113,7 @@ jupyter
 ## Dataset
 
 OULAD is publicly available from the Open University Knowledge Media Institute.  
-Direct download: https://analyse.kmi.open.ac.uk/open_dataset
+Direct download: https://analyse.kmi.open.ac.uk/open-dataset
 
 The 7 files used: `courses.csv`, `assessments.csv`, `studentAssessment.csv`, `studentInfo.csv`, `studentRegistration.csv`, `vle.csv`, `studentVle.csv`
 
