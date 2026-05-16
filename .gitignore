@@ -11,4 +11,5 @@ __pycache__/
 .env
  
 # Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints/*.png 
+master_cleaned.csv 
