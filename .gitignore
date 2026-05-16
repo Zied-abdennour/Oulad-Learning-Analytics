@@ -1,0 +1,14 @@
+# Dataset files — download from OULAD page
+data/raw/*.csv
+ 
+# Generated profiling reports — run notebook to regenerate
+reports/automated_profiling/*.html
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+ 
+# Jupyter
+.ipynb_checkpoints/
